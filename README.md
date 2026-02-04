@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed Gomaa</h1>
-<h3 align="center">Sofrware Engineer - Java</h3>
+<h3 align="center">Senior Sofrware Engineer - Java</h3>
 
-- 🌱 I’m currently learning **JUnit testing, RabbitMQ and Design Patterns**
+- 🌱 I’m currently exploring high-performance distributed systems, streaming architectures, and scalable backend design
 
-- 💬 Ask me about **Java, Spring boot, MYSQL, PostgreSQL, Mongo and Angular**
+- 💬 Ask me about Java, Spring Boot, Event-Driven Systems, Kubernetes, Docker, CI/CD pipelines, PostgreSQL, MongoDB, Kafka, Angular, and Cloud Infrastructure
 
 - 📫 How to reach me **gomaa14@hotmail.com**
 
